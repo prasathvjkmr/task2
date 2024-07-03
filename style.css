@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #304463;
+    font-family: "Nanum Gothic", sans-serif;
+    color: #FFF8DB;
+}
+
+h2,
+span {
+
+    padding: 2rem;
+    font-size: larger;
+    font-weight: bolder;
+    display: block;
+    color: #FFC7ED;
+}
+
+h1 {
+    text-align: center;
+    padding: 1rem;
+    color: #FFC7ED;
+}
+
+p {
+    font-size: larger;
+    padding-left: 1rem;
+}
+
+img {
+    margin-left: 450px;
+    padding: 2rem;
+}
+thead{
+    font-weight: bold;
+}
+
+table,
+td {
+    padding: 1rem 3rem;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 2rem;
+    background-color: #FFC7ED;
+    color: #304463;
+}
+
+ol {
+    padding-left: 3rem;
+    font-size: larger;
+    margin-bottom: 1rem;
+
+}
+li{
+    margin-bottom: 1rem;
+}
+
+dt {
+    font-weight: bolder;
+    margin-bottom: 0.5rem;
+}
+dd{
+    line-height: 1.6rem;
+}
+
+#rice,
+#curd {
+    background-color: white;
+}
+
+#gin {
+    background-color: goldenrod;
+}
+
+#chili {
+    background-color: red;
+}
+
+#ghee {
+    background-color: yellow;
+}
+
+#chick {
+    background-color: #692711;
+}
